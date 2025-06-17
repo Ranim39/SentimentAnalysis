@@ -1,6 +1,7 @@
 # IMDb Movie Review Sentiment Analysis 🎬
 
 This project uses **TensorFlow** to train a model that predicts whether a movie review is **positive** or **negative**.
+![image](https://github.com/user-attachments/assets/697ad5e8-15a5-44ef-b72c-83cea383f14d)
 
 ---
 
