@@ -3,7 +3,8 @@
 This project uses **TensorFlow** to train a model that predicts whether a movie review is **positive** or **negative**.
 
 
-sample_text = "I really loved this movie, it was amazing"
+sample_text = "I really loved this movie, it was amazing"                                                      
+
 ![image](https://github.com/user-attachments/assets/697ad5e8-15a5-44ef-b72c-83cea383f14d)
 
 ---
